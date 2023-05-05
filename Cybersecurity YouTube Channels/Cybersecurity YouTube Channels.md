@@ -46,7 +46,7 @@ A collection of list of Best Cybersecurity Youtube Channels I have came across a
 44. [John Hammond](https://www.youtube.com/c/JohnHammond010)
 45. [DarkSec](https://www.youtube.com/c/DarkSec)
 46. [superhero1](https://www.youtube.com/channel/UCm2SwKmx3Ya1HG5RmHR7SCA)
-47. [CrytoCar](https://www.youtube.com/c/CryptoCat23)
+47. [CryptoCat](https://www.youtube.com/c/CryptoCat23)
 48. [Cybercdh](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
 49. [Zanidd](https://www.youtube.com/c/devnull1337)
 50. [Seytonic](https://www.youtube.com/c/Seytonic)
